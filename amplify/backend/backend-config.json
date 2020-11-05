@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "layerswebapp9fa2b304": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
